@@ -1,3 +1,3 @@
-#  Machine Learning
+# Machine learning with Tensorflow
 
-This repository has all of my works on machine learning that I've studied by myself so far. Each jupyter notebook describes a certain topic of machine learning such as linear regression, multi-layer perceptron (MLP) and recurrent neural network (RNN). A more interesting topics of machine learning / deep learning will be posted to this remote repository! 😄
+This repo 'Machine learning with Tensorflow' is an individual project that aims to understand the core concepts of building neural network models using tensorflow as its Keras API. Tutorials that start with *tensorflow_keras* are from [Tensorflow tutorials homepage](https://www.tensorflow.org/tutorials).
