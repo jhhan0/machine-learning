@@ -1,0 +1,4 @@
+.vscode/
+
+# ignore jupyter notebook checkpoints from being committed
+.ipynb_checkpoints/
