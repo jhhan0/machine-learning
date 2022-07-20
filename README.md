@@ -1,4 +1,4 @@
-# Learning machine learning
+# Learning ML
 
 This repository aims to explore and understand the core concepts of machine / deep learning through step-by-step tutorials provided from open-source libraries / frameworks and [Python Machine Learning 3rd Edition](https://www.gilbut.co.kr/book/view?bookcode=BN002431) (Korean Translation).
 
@@ -6,8 +6,12 @@ This repository aims to explore and understand the core concepts of machine / de
 
 ## Tutorials
 
-- TensorFlow tutorials that I have worked on are all under the directory [here](./tensorflow_tutorials). One thing you have to keep in mind is that tutorials in this repository are a bit modified (eg. additional features are included or I skipped unnecessary parts) and some lines of code and markdown are condensed for ease of reference. If you are interested to learn from the official website, visit [TensorFlow tutorials page](https://www.tensorflow.org/tutorials) or [TensorFlow docs github](https://github.com/tensorflow/docs) to explore TensorFlow's state-of-the-art tutorials in details.
+- TensorFlow tutorials that I have worked on are all under the directory [here](./tensorflow_tutorials). One thing you have to keep in mind is that tutorials in this repository are modified (eg. additional features are included or I skipped unnecessary parts) and some lines of code and markdown are condensed for ease of reference. If you are interested to learn from the official website, visit [TensorFlow tutorials page](https://www.tensorflow.org/tutorials) or [TensorFlow docs github](https://github.com/tensorflow/docs) to explore TensorFlow's state-of-the-art tutorials in details.
 
 ## Textbook
 
-- [Python Machine Learning 3rd Edition](https://www.gilbut.co.kr/book/view?bookcode=BN002431) lets you introduce and understand the mathematical theories and algorithms behind the machine / deep learning using the real-world practical examples. All the tutorials inside this textbook are coded based on the [Python](https://python.org/) language with machine / deep learning libraries such as [TensorFlow](https://www.tensorflow.org/) and [scikit-learn](https://scikit-learn.org/stable/). You can find textbook tutorials under the directory [here](./python_machine_learning_textbook).
+- [Python Machine Learning 3rd Edition](https://www.gilbut.co.kr/book/view?bookcode=BN002431) lets you introduce the mathematical theories and algorithms behind the machine / deep learning using the real-world practical examples. All the tutorials in this textbook are based on the [Python](https://python.org/) language with machine / deep learning libraries such as [TensorFlow](https://www.tensorflow.org/) and [scikit-learn](https://scikit-learn.org/stable/). You can find textbook tutorials under the directory [here](./python_machine_learning_textbook).
+
+## Contribution
+
+If you spot any mistake or typo in this repository, please kindly open an issue to let me know which part is written incorrect.
